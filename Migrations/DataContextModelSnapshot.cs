@@ -47,7 +47,6 @@ namespace RentCarApi.Migrations
                         .HasColumnType("longtext");
 
                     b.Property<string>("OwnerPhoneNumber")
-                        .IsRequired()
                         .HasColumnType("varchar(255)");
 
                     b.Property<decimal>("PricePerDay")
@@ -207,8 +206,7 @@ namespace RentCarApi.Migrations
                     b.HasOne("RentCarApi.models.User", "Owner")
                         .WithMany("OwnedCars")
                         .HasForeignKey("OwnerPhoneNumber")
-                        .OnDelete(DeleteBehavior.SetNull)
-                        .IsRequired();
+                        .OnDelete(DeleteBehavior.SetNull);
 
                     b.Navigation("Owner");
                 });

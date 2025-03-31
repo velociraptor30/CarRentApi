@@ -23,7 +23,7 @@ namespace RentCarApi.models
         [ForeignKey("OwnerPhoneNumber")]
         [JsonIgnore]
         public User Owner { get; set; }
-        public string OwnerPhoneNumber { get; set; }
+        public string? OwnerPhoneNumber { get; set; }
 
         [JsonIgnore]
         public List<FavouriteCar> FavoritedByUsers { get; set; }

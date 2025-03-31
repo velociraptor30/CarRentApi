@@ -5,6 +5,7 @@
 /Users/kenkadav/RiderProjects/RentCarApi/obj/Debug/net8.0/RentCarApi.csproj.CoreCompileInputs.cache
 /Users/kenkadav/RiderProjects/RentCarApi/obj/Debug/net8.0/RentCarApi.MvcApplicationPartsAssemblyInfo.cs
 /Users/kenkadav/RiderProjects/RentCarApi/obj/Debug/net8.0/RentCarApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/kenkadav/RiderProjects/RentCarApi/obj/Debug/net8.0/RentCarApi.sourcelink.json
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/appsettings.Development.json
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/appsettings.json
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/RentCarApi
@@ -13,6 +14,7 @@
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/RentCarApi.dll
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/RentCarApi.pdb
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Humanizer.dll
+/Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
@@ -23,6 +25,12 @@
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Mono.TextTemplating.dll
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/MySqlConnector.dll
@@ -36,6 +44,7 @@
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/System.Composition.Hosting.dll
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/System.Composition.Runtime.dll
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
 /Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
@@ -102,11 +111,3 @@
 /Users/kenkadav/RiderProjects/RentCarApi/obj/Debug/net8.0/RentCarApi.pdb
 /Users/kenkadav/RiderProjects/RentCarApi/obj/Debug/net8.0/RentCarApi.genruntimeconfig.cache
 /Users/kenkadav/RiderProjects/RentCarApi/obj/Debug/net8.0/ref/RentCarApi.dll
-/Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
-/Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
-/Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
-/Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
-/Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
-/Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-/Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
-/Users/kenkadav/RiderProjects/RentCarApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll

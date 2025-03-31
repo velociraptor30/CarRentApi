@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace RentCarApi.Migrations
 {
     /// <inheritdoc />
-    public partial class AddRoleToUser : Migration
+    public partial class InitialCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -57,7 +57,7 @@ namespace RentCarApi.Migrations
                         .Annotation("MySql:CharSet", "utf8mb4"),
                     ImageUrls = table.Column<string>(type: "longtext", nullable: false)
                         .Annotation("MySql:CharSet", "utf8mb4"),
-                    OwnerPhoneNumber = table.Column<string>(type: "varchar(255)", nullable: false)
+                    OwnerPhoneNumber = table.Column<string>(type: "varchar(255)", nullable: true)
                         .Annotation("MySql:CharSet", "utf8mb4")
                 },
                 constraints: table =>
